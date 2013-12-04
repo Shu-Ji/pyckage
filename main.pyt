@@ -1,12 +1,3 @@
-pyckage
-==========
-
-a python html template engine
-
-
-```
-\# test.pyt
-
 html:
     head:  # line comment
         #:
@@ -43,4 +34,3 @@ html:
             $(function(){
                 alert(3);
             });
-```
